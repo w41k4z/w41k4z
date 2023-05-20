@@ -1,16 +1,49 @@
 ### Hi there 👋
 
-<!--
-**w41k4z/w41k4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alain Rico
 
-Here are some ideas to get you started:
+## Summary
+Experienced Java developer currently working as a Full Stack JavaScript developer. Studying at IT University (L2).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Sping Boot Spring MVC
+- JavaScript
+- Node.js
+- Express.js
+- React.js
+- Next.js
+- Python
+- Django
+- .Net C#
+- ASP.Net
+- Php
+- CodeIgniter
+- MySQL
+- PostgreSQL
+- Oracle
+- SQL Server
+- MongoDB
+- HTML
+- CSS
+- Bootstrap
+- Git
+
+## Education
+- BSc in Computer Science, IT University (expected graduation: 2024)
+
+## Projects
+- Project 1: [Project Name](https://github.com/yourusername/project1)
+  - Description: Briefly describe your project and its key features.
+  - Technologies used: List the technologies used in the project.
+
+- Project 2: [Project Name](https://github.com/yourusername/project2)
+  - Description: Briefly describe your project and its key features.
+  - Technologies used: List the technologies used in the project.
+
+## Contact
+- Email: yourname@example.com
+- LinkedIn: [John Doe](https://www.linkedin.com/in/yourlinkedinprofile)
+- GitHub: [yourusername](https://github.com/yourusername)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
