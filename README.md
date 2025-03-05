@@ -4,8 +4,6 @@
 </div>
 <h3 align="center">An ambitous, passionate and motivated developer from Madagascar</h3>
 
-- 🔭 I’m actually working on [`orm`](https://github.com/w41k4z/ORM.git)
-
 - 👨‍💻 Most of my projects are available here in [https://github.com/w41k4z](https://github.com/w41k4z)
 
 - 📫 How to reach me **alainricor@gmail.com**
