@@ -27,4 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=w41k4z&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E" alt="w41k4z" />
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=w41k4z&theme=dark&ring=F7DF1E&fire=F7DF1E&currStreakLabel=ffff33&sideLabels=F7DF1E" alt="w41k4z" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=w41k4z&theme=dark&ring=F7DF1E&fire=F7DF1E&currStreakLabel=ffff33&sideLabels=F7DF1E" alt="w41k4z" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=w41k4z&theme=onedark)](https://github.com/w41k4z/github-profile-trophy)
+</p>
