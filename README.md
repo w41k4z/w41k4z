@@ -15,7 +15,7 @@
 <a href="https://twitter.com/alainwalker69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alainwalker69" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakotondranaivo-alain-rico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alain rico rakotondranaivo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20671247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20671247" height="30" width="40" /></a>
-<a href="https://fb.com/alain walker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alain walker" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alain.rico.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alain walker" height="30" width="40" /></a>
 <a href="https://instagram.com/alainwalker69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alainwalker69" height="30" width="40" /></a>
 </p>
 
