@@ -30,6 +30,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=w41k4z&theme=dark&ring=F7DF1E&fire=F7DF1E&currStreakLabel=ffff33&sideLabels=F7DF1E" alt="w41k4z" />
 </p>
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=w41k4z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=w41k4z&margin-h=15&margin-w=15)](https://github.com/w41k4z)
